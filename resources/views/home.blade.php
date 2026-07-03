@@ -32,12 +32,12 @@
 
            <div class="hidden md:flex justify-center relative">
 
-    <div class="hidden md:flex justify-center items-center">
+   <div class="hidden md:flex justify-center items-center">
 
     <img
         src="{{ asset('images/products/banner.jpg') }}"
         alt="TrueBeauty Banner"
-        class="w-[400px] h-[400px] object-contain">
+        class="w-[400px] h-[400px] object-contain translate-x-10">
 
 </div>
         </div>
